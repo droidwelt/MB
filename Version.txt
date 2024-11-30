@@ -1,5 +1,5 @@
 {
   "version": "1.1",
   "comment": "Исправлены старые ошибки. Добавлены новые.",
-  "comment": "app-debug.apk"
+  "filename": "app-debug.apk"
  }

@@ -1,0 +1,12 @@
+{
+  "version": "2.01",
+
+  "comment": "
+
+2.01 2025.01.04
+Начало.
+
+",
+
+  "filename": "app-debug02.apk"
+ }
